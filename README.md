@@ -12,6 +12,7 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 
 ##### Usage:
 ```
+use git bash run to command in windows
 git https://github.com/hackhubs/socialphishing.git
 cd SocialPhish
 chmod +x socialphish.sh
